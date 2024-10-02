@@ -18,7 +18,7 @@ const Footer = () => {
           <aside>
             <p className="text-3xl font-semibold font-bn">আনন্দ গার্মেন্টস</p>
             <p className="max-w-72 md:text-justify tracking-wide uppercase">
-              From casual to classy, we've got your look covered
+              From casual to classy, we&apos;ve got your look covered
             </p>
             <p className="max-w-72 md:text-justify tracking-wide uppercase mt-2">
               <FaMapMarkerAlt className="inline-block mr-2 text-primary" />
